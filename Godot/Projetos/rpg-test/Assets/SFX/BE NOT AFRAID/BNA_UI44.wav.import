@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://buettynl7dp5o"
+path="res://.godot/imported/BNA_UI44.wav-a9bb5b00c03d3e48bf117c89c48dff77.sample"
+
+[deps]
+
+source_file="res://Assets/SFX/BE NOT AFRAID/BNA_UI44.wav"
+dest_files=["res://.godot/imported/BNA_UI44.wav-a9bb5b00c03d3e48bf117c89c48dff77.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
