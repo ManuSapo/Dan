@@ -10,6 +10,7 @@ func _physics_process(delta: float) -> void:
 	var directionx := Input.get_axis("ui_left", "ui_right")
 	if directionx:
 		velocity.x = directionx * SPEED
+		print("right")
 	else:
 		velocity.x = move_toward(velocity.x, 0, SPEED)
 	if directiony:
